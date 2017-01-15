@@ -9,14 +9,18 @@ package radingame;
  *
  * @author Zulox
  */
-abstract class Mechanism {
+public class Player {
     
-    public static void ClickCard(){
-    
-    
-    
+
+    private int PlayerScore = 0;
+ 
+    public void setPlayerScore( int score){
+        this.PlayerScore = score;
     }
     
-    
+
+    public int getPlayerScore(){
+        return this.PlayerScore;
+    }
     
 }
