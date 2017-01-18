@@ -1,6 +1,20 @@
 #Memory Java Game
 This is a typical where you have to pick and match 2 item that are randomly scramble, the player that have to most matched set win the game
 
+
+### Demo
+**[Image Option])**             |  **[Image Game]**
+:-------------------------:|:-------------------------:
+![Option](http://i.imgur.com/zljbNY8.png)  |  ![Game](http://i.imgur.com/aIqw7rD.png)
+
+#Code Location
+Important location are at :
+
+src->radingame
+
+
+
+
 #How To Play
 First pick how many tile/grid do you want to play = 2x2, 3x3, 4x4
 
@@ -23,7 +37,7 @@ The player with the most points WIN
 
 
 ##HOW TO RUN
-#WARNING YOU NEED NETBEAN IN RODER TO RUN THE PROJECT
+#WARNING YOU NEED NETBEAN IN ORDER TO RUN THE PROJECT
 
 1)Download the whole project file
 
